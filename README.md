@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I am Muhaddesa Noori! 👋
 
-<!--
-**Muhaddesa/Muhaddesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- I'm a Data science fresh graduate. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I studied [computer science] at the American University of Afghanistan. 
+- 🌱 I’m currently honing my skills in Data science working on projects. 
+- 👯 I’m looking to collaborate on real world projects. 
+- 💬 Currently learning about Data Analytics,  Machine learning, and Inference Specialization. 
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: She/her
 - ⚡ Fun fact: ...
--->
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhaddesa&show_icons=true&theme=radical)
