@@ -3,7 +3,7 @@
 
  American University of Afghanistan's alumni with a major in Information Technology, concentration in Data Science, graduated in Dec, 2023. I am passionate about working in Data Science field as a data analyst to use skills gained from my college education and to make difference in the field. 
 I am currently working as IT Facilitator working with Apple products to mitigate the barriers of education. Additionally, currently I am enrolled in the MIT Emerging Talent program, where I am actively working towards completing a Certificate in Computer Science and Data Science. I anticipate completing the program and graduating in May 2024. Utilizing my extensive background in computer science, mathematics, and statistics, I have acquired expertise in various areas including data analytics, programming languages such as Python and R, database querying with SQL, proficient use of Excel, data visualization techniques, as well as utilizing Power BI for data analysis and reporting. 
-I am skilled in Event Planning, Teacher Training, Time Management, Communication, Problem-solving, and have strong human resource management. 
+I am skilled in Event Planning, Teacher Training, Time Management, Communication, and Problem-solving. 
 #### so in short;
 - 🔭 I studied Computer Science at the American University of Afghanistan. 
 - 🌱 I’m currently honing my skills in Data science working on projects. 
